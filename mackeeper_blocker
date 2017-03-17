@@ -11,10 +11,21 @@ end
 
 #initiate domain list array
 mk_address_list = [
+  "cleaningformac.com",
+  "cleanmymac.com",
+  "download.mac-install.com",
+  "fixmymacos.com",
+  "mac-cleaner.com",
+  "mac-install.com",
+  "maccleaner.com",
+  "maccleaner.net",
+  "mackeeper.com",
   "mackeeperapp.mackeeper.com",
   "mackeeperapp2.mackeeper.com",
   "mackeeperapp3.mackeeper.com",
-  "mackeeper.com",
+  "macpaw.com",
+  "macprotect.co",
+  "safemac.co",
   "trustedmaccleaner.com"
 ]
 
